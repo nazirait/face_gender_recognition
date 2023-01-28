@@ -30,8 +30,8 @@ pip install pandas
 - For Anaconda: Open Jupyter Notebook and File->Open, find and select main.py
 
 5. 2 case scenarios:
-For real-time detection: Run the code and wait. The camera will appear and you will see the result.
-For detection by image: uncomment the lines [71, 83]. On line 71, provide path to the image as in example. Please, comment the code below line 85, i.e. [85, 112]. Run the code and wait. Once the execution is completed, you will get the result.
+- For real-time detection: Run the code and wait. The camera will appear and you will see the result.
+- For detection by image: uncomment the lines [71, 83]. On line 71, provide path to the image as in example. Please, comment the code below line 85, i.e. [85, 112]. Run the code and wait. Once the execution is completed, you will get the result.
 
 Insterested in model accuracy?
 
