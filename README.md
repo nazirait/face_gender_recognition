@@ -1,4 +1,4 @@
-# This project aims to perform face & gender recognition.
+# Face & Gender Recognition.
 
 The dataset is taken from Kaggle: https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset
 
